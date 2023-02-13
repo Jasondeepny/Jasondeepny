@@ -42,12 +42,12 @@ Here are some ideas to get you started:
 
 
 ### 🛠 &nbsp;Tech Stack
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-![Koa.js](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=koa.js)
-![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
+![Groovy](https://img.shields.io/badge/-Groovy-333333?style=flat&logo=groovy)
+![shell](https://img.shields.io/badge/-shell-5391FE?style=flat&logo=PowerShell&logoColor=white)
+![docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:jasondeepny@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jasondeepny@gmail.com-blue?style=flat-square&logo=gmail"></a>
