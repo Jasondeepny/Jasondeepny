@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 
 ### ⭐️ &nbsp;Github Star
 
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jasondeepny&count_private=true&show_icons=true"/>
-
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jasondeepny&count_private=true&show_icons=true&theme=Gradient"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
