@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Groovy](https://img.shields.io/badge/-Groovy-333333?style=flat&logo=groovy)
 ![shell](https://img.shields.io/badge/-shell-5391FE?style=flat&logo=PowerShell&logoColor=white)
