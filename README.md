@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Groovy](https://img.shields.io/badge/-Groovy-333333?style=flat&logo=groovy)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![shell](https://img.shields.io/badge/-shell-5391FE?style=flat&logo=PowerShell&logoColor=white)
 ![docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
 
